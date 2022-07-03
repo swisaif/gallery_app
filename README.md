@@ -54,7 +54,8 @@ Dimanche 03/07/2022 : 6 heures
 - Améliorer le UI de l'application :1) Améliorer le top bar ou bien le remplacé. </br> 2) un nouveau design pour les items de recycleView.
 - Détection de l'état de connection pour notifier l'utilisateur: Méthode prète dans le fichier utils, il me reste que l'appelé dans les bons endroits.
 - Swipe to refresh: Ajout dans XML puis on va implémenter le listener. 
-
+##### Url de l'apk :
+https://drive.google.com/file/d/1ZswkMZKWWZvAfPEScHtVrWOyFDVuaQvv/view?usp=sharing
 
 
 
